@@ -22,7 +22,7 @@ global.price1 = '1 Bulan = 18K\n2 Minggu = 10K\n1 Minggu = 5K'
 global.fotonya1 = 'https://telegra.ph/file/fbf6a72c22288a00c28bb.jpg' //ganti jadi foto bot mu
 global.fotonya2 = 'https://telegra.ph/file/fbf6a72c22288a00c28bb.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
-global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
+global.zenzkey = '06d483bbc651' //ganti jadi apikey lu kalau expired
 global.wm = 'Vian-MD'
 global.watermark = wm
 global.wm2 = '                     「 Vian-MD⁩ 」'
